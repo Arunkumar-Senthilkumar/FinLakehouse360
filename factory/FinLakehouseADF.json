@@ -1,0 +1,9 @@
+{
+	"name": "FinLakehouseADF",
+	"location": "canadacentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "bfea674c-26ce-4a03-8a76-b46d2ea32fdc",
+		"tenantId": "49bba7a4-424b-4070-a70e-886e9dd7caef"
+	}
+}
